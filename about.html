@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>haishu007-about</title>
+<style type="text/css">
+    #img {
+  border-radius: 50%;
+  width: 300px;
+  height: auto;
+
+}
+main .about {
+     height: auto;
+    position: relative;
+    display: flex;
+}
+main .about .container{
+    background-color: #fffdd0;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    text-align: left;
+    height: auto;
+     margin: 3rem 6rem;
+     padding: 0.5rem;
+}
+table { 
+  width: 100%; 
+  border-collapse: collapse; 
+}
+/* Zebra striping */
+tr:nth-of-type(odd) { 
+  background: #eee; 
+}
+th { 
+  background: #333; 
+  color: white; 
+  font-weight: bold; 
+}
+td, th { 
+  padding: 6px; 
+  border: 1px solid #ccc; 
+  text-align: left; 
+}
+main .education .details{
+    padding: 0.3rem;
+  margin :0.9rem .9rem;
+
+}
+#education-detail{
+background:#fffdd0;
+}
+@media 
+only screen and (max-width: 1130px),
+(min-device-width: 520px) and (max-device-width: 750px) ,
+(min-device-width: 320px) and (max-device-width: 520px) {
+
+  /* Force table to not be like tables anymore */
+  table, thead, tbody, th, td, tr { 
+    display: block; 
+  }
+  
+  /* Hide table headers (but not display: none;, for accessibility) */
+  thead tr { 
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+  
+  tr { border: 1px solid #ccc; }
+  
+  td { 
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: 1px solid #eee; 
+    position: relative;
+    padding-left: 50%; 
+  }
+  
+  td:before { 
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 6px;
+    left: 6px;
+    width: 45%; 
+    padding-right: 10px; 
+    white-space: nowrap;
+  }
+  
+  /*
+  Label the data
+  */
+  td:nth-of-type(1):before { content: "Type"; }
+  td:nth-of-type(2):before { content: "Details"; }
+  td:nth-of-type(3):before { content: "year"; }
+ 
+}
+
+</style>
+
+
+
+
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="./css/all.css">
+
+
+    <!-- --------- Owl-Carousel ------------------->
+    <link rel="stylesheet" href="./css/owl.carousel.min.css">
+    <link rel="stylesheet" href="./css/owl.theme.default.min.css">
+
+    <!-- ------------ AOS Library ------------------------- -->
+    <link rel="stylesheet" href="./css/aos.css">
+
+    <!-- Custom Style   -->
+    <link rel="stylesheet" href="./css/Style.css">
+
+</head>
+
+<body>
+
+    <!-- ----------------------------  Navigation ---------------------------------------------- -->
+
+    <nav class="nav">
+        <div class="nav-menu flex-row">
+            <div class="nav-brand">
+                <a href="#" class="text-gray"></a>
+            </div>
+            <div class="toggle-collapse">
+                <div class="toggle-icons">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </div>
+            <div>
+                <ul class="nav-items">
+        <li class="nav-link">
+        <a href="./index.html">Home</a>
+        </li>
+        <li class="nav-link">
+            <a href="./My_work.html">My-Work</a>
+        </li>
+        <li class="nav-link">
+            <a href="./comunity_work.html">Community-Work</a>
+        </li>
+        <li class="nav-link">
+            <a href="#">Blog-Channel</a>
+        </li>
+        <li class="nav-link">
+            <a href="./about.html">About-Me</a>
+        </li>
+    </ul>
+            </div>
+            <div class="social text-gray">
+               <a href="https://www.facebook.com/people/Siddhant-Jain/100009327373851" target="_black"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://twitter.com/Siddhant_jan" target="_black"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.instagram.com/siddhant_jan/" target="_black"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.youtube.com/channel/UCr0MNcmihIvOAS22qAQhfQQ" target="_black"><i class="fab fa-youtube"></i></a>
+                    <a href="https://www.linkedin.com/in/siddhant-jain-443727171/" target="_black"><i class="fab fa-linkedin"></i></a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- ------------x---------------  Navigation --------------------------x------------------- -->
+
+    <!----------------------------- Main Site Section ------------------------------>
+
+    <main>
+
+        <!------------------------ Site Title ---------------------->
+<section>
+            <div class="about-background"data-aos="fade-up" data-aos-delay="100" >
+                 <h1 style="color: var(--text-gold);text-align: center;padding: 3rem;
+               margin: 2rem;">About Me</h1>
+            </div>
+        </section>
+
+        <!------------x----------- Site Title ----------x----------->
+<section class="major-community">
+            <div class="about">
+                    <div class="container">
+                           <div class="about-content" data-aos="fade-right" data-aos-delay="200">
+                            <img  class="img-intro" id="img"src="./assets/profile.jpg">
+                            </div>
+                               <div style="text-align: left;font-family: var(--Abel);font-size:17px;padding: 1.5rem;">
+                                 <h2> Hey,I Am Siddhant Jain! </h2>
+                                 <p>I am belong to Jahazpur a small town in Bhilwara district in rajasthan. from 10th class i am living in Kota due to study so kota is my second hometown . i love to eat food and sleeping more.....&#128518; 
+                                 </p>
+                                    <p> 
+Currently, I am working with students of my college to develop strong technical club in the campus, which will in near future help hundreds of students in developing there technical foundation.On the other hand I am also working to develop a startup to help citizens find helpers according to their needs.
+name of my startup is <a href="#" target="_black">Stazer</a>.</p>
+<p>find out more about our Startup <a href="#" target="_black"> click here</a>.</p>
+<p>find out more about our club <a href="#" target="_black"> click here</a>.
+                                 </p>
+                               <p>to read my blogs or want to know about my life<a href="#" target="_black"> click here</a>.</p>
+                               </div>
+                   </div>     
+            </div>
+            <hr>
+
+       <div class="education" style="padding-top: 3rem;">
+            <h1 style="text-align: center; margin: 0.3rem"> About My Education</h1>
+                     <div class="details" id="education-detail">
+                        <table>
+                          <thead>
+                            <tr>
+                                 <th><h1>Type</h1></th>
+                                  <th><h1>Details</h1></th> 
+                                   <th><h1>year</h1></th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                                 <th><h2> Graduation</h2></th>
+                                  <th>
+                            <p> I am persuving my bachlor's degree <br>progrom in information technology branch from <a href="#" target="_black">rajasthan technical university</a></p></th> 
+                                   <th>2019</th>
+                            </tr>
+                            <tr>
+                                 <th><h2>Senior<br>Secondary</h2></th>
+                                  <th>
+                            <p> I am persuved my senior secondary in science math stream(in english medium) <br>from <a href="#" target="_black">swammi vivekand vidhya niketen</a> mahveer nagar III</p></th> 
+                                   <th>2018</th>
+                            </tr>
+                            <tr>
+                                 <th><h2>Secondary</h2></th>
+                                  <th>
+                            <p> I am persuved my secondary in hindi medium <br>from <a href="#" target="_black">swammi vivekand vidhya niketen</a> mahveer nagar III</p></th> 
+                                   <th>2016</th>
+                                </tr>
+                                   <tr>
+                                 <th><h5>form 6th to 9th</h5></th>
+                                  <th>
+                            <p> I am persuved my classes from 6th to 9th in hindi medium <br>from <a href="#" target="_black">adarsh vidhya mandir</a>Jahazpur</p></th> 
+                                   <th>2012-2015</th>
+                               </tr>
+                                 
+                                   <tr>
+                                 <th><h5>form 4th to 5th</h5></th>
+                                  <th>
+                            <p> I am persuved my classes from 6th to 9th in hindi medium <br>from <a href="#" target="_black">Genius Children School</a>Kota</p></th> 
+                                   <th>2010-2011</th>
+                            </tr>
+
+                                   <tr>
+                                 <th><h5>form play-group to 3rd</h5></th>
+                                  <th>
+                            <p> I am persuved my classes from My play group to third in English medium <br>from <a href="#" target="_black">Jai Bharti Vidhya Niketen </a>Jahazpur</p></th> 
+                                   <th>2004-2009</th>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                        
+            </div>
+        </section>
+
+        <!-- ---------------------- Site Content -------------------------->
+
+
+        <!-- -----------x---------- Site Content -------------x------------>
+
+    </main>
+
+    <!---------------x------------- Main Site Section ---------------x-------------->
+
+
+    <!-- --------------------------- Footer ---------------------------------------- -->
+
+    <footer class="footer">
+        <div class="container">
+            <div class="about-us" data-aos="fade-right" data-aos-delay="200">
+                <h2>About us</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium quia atque nemo ad modi officiis
+                    iure, autem nulla tenetur repellendus.</p>
+            </div>
+            <div class="newsletter" data-aos="fade-right" data-aos-delay="200">
+                <h2>Newsletter</h2>
+                <p>Stay update with our latest</p>
+                <div class="form-element">
+                    <input type="text" placeholder="Email"><span><i class="fas fa-chevron-right"></i></span>
+                </div>
+            </div>
+            <div class="instagram" data-aos="fade-left" data-aos-delay="200">
+                <h2>Community</h2>
+                <div class="flex-row">
+                    <img src="./assets/community/Techknights/meetup_planning.jpg" alt="community1">
+                    <img src="./assets/community/coding-awareness-program/img-8.jpg" alt="community2">
+                    <img src="./assets/community/coding-awareness-program/img-9.jpg" alt="community3">
+                </div>
+                <div class="flex-row">
+                    <img src="./assets/community/Thar-20/Thar-20-1.jpeg" alt="community4">
+                    <img src="./assets/community/Techknights/sharing_stage_tech.jpg" alt="community5">
+                    <img src="./assets/community/Techknights/techknighs_1.jpg" alt="community6">
+                </div>
+            </div>
+            <div class="follow" data-aos="fade-left" data-aos-delay="200">
+                <h2>Follow us</h2>
+                <p>Let us be Social</p>
+                <div>
+                   <a href="https://www.facebook.com/people/Siddhant-Jain/100009327373851" target="_black"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://twitter.com/Siddhant_jan" target="_black"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.instagram.com/siddhant_jan/" target="_black"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.youtube.com/channel/UCr0MNcmihIvOAS22qAQhfQQ" target="_black"><i class="fab fa-youtube"></i></a>
+                    <a href="https://www.linkedin.com/in/siddhant-jain-443727171/" target="_black"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://github.com/Siddhantjan" target="_black"><i class="fab fa-github"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="rights flex-row">
+            <h4 class="text-gray">
+                Copyright ©2020 All rights reserved | made by
+                <a href="https://www.youtube.com/channel/UCr0MNcmihIvOAS22qAQhfQQ" target="_black">Siddhant_jan<i class="fab fa-youtube"></i>
+                    Channel</a>
+            </h4>
+        </div>
+        <div class="rights flex-row">
+            <h5 class="text-gray">
+                To make this taking refernce 
+                <a href="https://www.youtube.com/channel/UCrG2Z0usOCCdUTAr4D1A8mw" target="_black">
+Daily Tuition<i class="fab fa-youtube"></i>
+                    Channel</a>
+            </h5>
+        </div>
+        <div class="move-up">
+            <span><i class="fas fa-arrow-circle-up fa-2x"></i></span>
+        </div>
+    </footer>
+
+    <!-- -------------x------------- Footer --------------------x------------------- -->
+
+    <!-- Jquery Library file -->
+    <script src="./js/Jquery3.4.1.min.js"></script>
+
+    <!-- --------- Owl-Carousel js ------------------->
+    <script src="./js/owl.carousel.min.js"></script>
+
+    <!-- ------------ AOS js Library  ------------------------- -->
+    <script src="./js/aos.js"></script>
+
+    <!-- Custom Javascript file -->
+    <script src="./js/main.js"></script>
+</body>
+
+</html>

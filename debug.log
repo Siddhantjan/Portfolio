@@ -1,0 +1,109 @@
+[0418/002750.787:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0418/002750.803:ERROR:exception_snapshot_win.cc(98)] thread ID 5928 not found in process
+[0418/003357.283:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84ac90 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003357.515:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84ace0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003357.519:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84ad30 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003357.523:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84b050 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003357.527:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84b1c0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003357.527:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84bd00 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003357.819:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84be30 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003357.819:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84bf60 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003357.831:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84c090 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003357.879:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84c1c0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003357.883:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84c2f0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003357.883:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84c420 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003357.887:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84c550 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003357.943:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84c680 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003358.475:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84c7b0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003358.479:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84c8e0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003358.483:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84ca10 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003358.535:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84e4a0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003358.659:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84e6c0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003358.659:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84ea20 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003358.663:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84ecc0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003358.763:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a84f490 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003358.771:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a850ed0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003358.775:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a851220 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.211:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a853e30 of 54 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.219:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a854740 of 76 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.219:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a854aa0 of 80 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.223:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a855030 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.227:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a855210 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.231:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a8552b0 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.235:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a855440 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.239:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a8555d0 of 58 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.243:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a855620 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.247:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a8556c0 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.251:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a8557b0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.659:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a855800 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.663:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a855850 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.667:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a855940 of 66 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.683:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a855a80 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.703:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a855bc0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.719:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a855c60 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.727:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a855df0 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.731:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a855ee0 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003359.731:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a855f30 of 60 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.067:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a855f80 of 62 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.067:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a856510 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.067:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a856b00 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.067:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a856c30 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.083:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a856fc0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.098:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a8570f0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.098:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a857350 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.098:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a857810 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.114:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a857a70 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.114:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a857cd0 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.286:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a857e00 of 132 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.286:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a858500 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.286:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318a86eaa0 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.302:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318ab527e0 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.302:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318ab61390 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.317:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318ab6ba00 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.317:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318ab6c100 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.317:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318ab72170 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.333:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318ab94720 of 800 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.333:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318c9c0000 of 384 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.333:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318c9f8f90 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.333:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318c9f91d0 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.333:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318c9f9990 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.333:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318ca1bfd8 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.473:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318ca1c6d0 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.473:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318ca1c9f8 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.489:ERROR:process_memory_win.cc(73)] ReadMemory at 0x2318ca25f20 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.489:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffdc2a549c1 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.489:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffdc3c24b84 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.489:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffdc5442b52 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.505:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffdc9efd4e0 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.505:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffdee687a8d of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.505:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffdee688285 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.505:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffe10cfc0c4 of 672 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003400.677:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffe10cff974 of 608 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003401.406:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffe10d8c428 of 18 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003401.484:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffe10dbf4f8 of 40 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003401.531:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffe10dbf978 of 48 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003401.547:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffe10dc53c0 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0418/003402.031:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0526/031732.732:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/032732.735:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/032732.735:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/033233.187:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/034733.188:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/040233.191:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/041733.294:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/043818.112:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/045318.118:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/050818.119:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/052318.120:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/053818.155:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/055318.156:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/060701.682:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/060818.163:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/061719.428:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/062041.928:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/062101.695:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/063041.913:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/063041.914:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/063541.929:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/065041.930:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0526/070541.932:ERROR:crash_report_database_win.cc(428)] unexpected header
